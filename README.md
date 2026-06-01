@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hola,+soy+Martín+Adones+👋;Software+Engineer;IT+Consultant+%7C+Cybersecurity+Enthusiast;Founder+%40+Cenit+Digital" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hola,+soy+Martin+Adones;Software+Engineer;IT+Consultant+%7C+Cybersecurity+Enthusiast;Founder+%40+Cenit+Digital" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -65,11 +65,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnadones-png&theme=tokyonight&hide_border=true" width="48%" />
-  <td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mnadones-png&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mnadones-png&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" width="48%" />
 </div>
 
 ---
@@ -86,5 +82,4 @@
   <a href="https://cenitdigital.cl">
     <img src="https://img.shields.io/badge/Cenit_Digital-101010?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  
 </div>
